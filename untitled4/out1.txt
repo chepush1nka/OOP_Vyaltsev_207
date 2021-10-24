@@ -1,0 +1,53 @@
+There are 12 vehicles in the container.
+1: SHIP. Speed: 520, distance: 1835.000000, ship type: , water_displacement: 9035
+  road time: 3.528846
+2: SHIP. Speed: 567, distance: 1138.000000, ship type: , water_displacement: 8139
+  road time: 2.007055
+3: SHIP. Speed: 148, distance: 2228.000000, ship type: , water_displacement: 10400
+  road time: 15.054054
+4: PLANE. Speed: 693, distance: 585.000000, load capacity: 48, flight range: 5736
+road time: 0.844156
+5: TRAIN. Speed: 514, distance: 1423.000000, number of wagons: 9
+  road time: 2.768482
+6: TRAIN. Speed: 197, distance: 2195.000000, number of wagons: 8
+  road time: 11.142132
+7: SHIP. Speed: 628, distance: 2299.000000, ship type: , water_displacement: 8653
+  road time: 3.660828
+8: TRAIN. Speed: 493, distance: 578.000000, number of wagons: 13
+  road time: 1.172414
+9: SHIP. Speed: 139, distance: 1940.000000, ship type: , water_displacement: 6034
+  road time: 13.956835
+10: TRAIN. Speed: 549, distance: 1399.000000, number of wagons: 9
+  road time: 2.548270
+11: TRAIN. Speed: 367, distance: 2231.000000, number of wagons: 13
+  road time: 6.079019
+12: SHIP. Speed: 376, distance: 2501.000000, ship type: , water_displacement: 7360
+  road time: 6.651596
+
+
+Best time:
+There are 12 vehicles in the container.
+1: SHIP. Speed: 148, distance: 2228.000000, ship type: , water_displacement: 10400
+  road time: 15.054054
+2: SHIP. Speed: 139, distance: 1940.000000, ship type: , water_displacement: 6034
+  road time: 13.956835
+3: TRAIN. Speed: 197, distance: 2195.000000, number of wagons: 8
+  road time: 11.142132
+4: SHIP. Speed: 376, distance: 2501.000000, ship type: , water_displacement: 7360
+  road time: 6.651596
+5: TRAIN. Speed: 367, distance: 2231.000000, number of wagons: 13
+  road time: 6.079019
+6: SHIP. Speed: 628, distance: 2299.000000, ship type: , water_displacement: 8653
+  road time: 3.660828
+7: SHIP. Speed: 520, distance: 1835.000000, ship type: , water_displacement: 9035
+  road time: 3.528846
+8: TRAIN. Speed: 514, distance: 1423.000000, number of wagons: 9
+  road time: 2.768482
+9: TRAIN. Speed: 549, distance: 1399.000000, number of wagons: 9
+  road time: 2.548270
+10: SHIP. Speed: 567, distance: 1138.000000, ship type: , water_displacement: 8139
+  road time: 2.007055
+11: TRAIN. Speed: 493, distance: 578.000000, number of wagons: 13
+  road time: 1.172414
+12: PLANE. Speed: 693, distance: 585.000000, load capacity: 48, flight range: 5736
+road time: 0.844156

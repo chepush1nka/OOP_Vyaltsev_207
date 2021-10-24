@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/pasha/CLionProjects/untitled4/container.h
+iostream
+-
+transport.h
+C:/Users/pasha/CLionProjects/untitled4/transport.h
+
+C:/Users/pasha/CLionProjects/untitled4/exceptions.h
+
+C:/Users/pasha/CLionProjects/untitled4/main.cpp
+iostream
+-
+container.h
+C:/Users/pasha/CLionProjects/untitled4/container.h
+timer.h
+C:/Users/pasha/CLionProjects/untitled4/timer.h
+exceptions.h
+C:/Users/pasha/CLionProjects/untitled4/exceptions.h
+
+C:/Users/pasha/CLionProjects/untitled4/timer.h
+time.h
+-
+
+C:/Users/pasha/CLionProjects/untitled4/transport.h
+iostream
+-
+fstream
+-
+timer.h
+C:/Users/pasha/CLionProjects/untitled4/timer.h
+

@@ -1,0 +1,45 @@
+There are 10 vehicles in the container.
+1: PLANE. Speed: 620, distance: 1011.000000, load capacity: 113, flight range: 2087
+road time: 1.630645
+2: TRAIN. Speed: 336, distance: 690.000000, number of wagons: 10
+  road time: 2.053571
+3: PLANE. Speed: 246, distance: 2789.000000, load capacity: 86, flight range: 2296
+road time: 11.337398
+4: TRAIN. Speed: 464, distance: 998.000000, number of wagons: 14
+  road time: 2.150862
+5: PLANE. Speed: 283, distance: 1531.000000, load capacity: 81, flight range: 6291
+road time: 5.409894
+6: TRAIN. Speed: 260, distance: 2646.000000, number of wagons: 10
+  road time: 10.176923
+7: TRAIN. Speed: 683, distance: 879.000000, number of wagons: 10
+  road time: 1.286969
+8: PLANE. Speed: 676, distance: 633.000000, load capacity: 92, flight range: 5269
+road time: 0.936391
+9: PLANE. Speed: 509, distance: 1852.000000, load capacity: 104, flight range: 5386
+road time: 3.638507
+10: TRAIN. Speed: 520, distance: 634.000000, number of wagons: 12
+  road time: 1.219231
+
+
+Best time:
+There are 10 vehicles in the container.
+1: PLANE. Speed: 246, distance: 2789.000000, load capacity: 86, flight range: 2296
+road time: 11.337398
+2: TRAIN. Speed: 260, distance: 2646.000000, number of wagons: 10
+  road time: 10.176923
+3: PLANE. Speed: 283, distance: 1531.000000, load capacity: 81, flight range: 6291
+road time: 5.409894
+4: PLANE. Speed: 509, distance: 1852.000000, load capacity: 104, flight range: 5386
+road time: 3.638507
+5: TRAIN. Speed: 464, distance: 998.000000, number of wagons: 14
+  road time: 2.150862
+6: TRAIN. Speed: 336, distance: 690.000000, number of wagons: 10
+  road time: 2.053571
+7: PLANE. Speed: 620, distance: 1011.000000, load capacity: 113, flight range: 2087
+road time: 1.630645
+8: TRAIN. Speed: 683, distance: 879.000000, number of wagons: 10
+  road time: 1.286969
+9: TRAIN. Speed: 520, distance: 634.000000, number of wagons: 12
+  road time: 1.219231
+10: PLANE. Speed: 676, distance: 633.000000, load capacity: 92, flight range: 5269
+road time: 0.936391
